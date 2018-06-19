@@ -1,9 +1,9 @@
 body{
-   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/crab1.jpg) no-repeat left center;
+   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../image/recBack.jpg) no-repeat left center;
    background-size: cover;
    color: #fff;
 }
 
-.crab_img{
+.recp-img{
   width: 100%;
 }
